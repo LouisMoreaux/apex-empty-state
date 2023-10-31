@@ -3,9 +3,9 @@ Oracle APEX - Empty State Template Component Plug-in
 
 A template component useful to emtpy state to users instead of a blank page
 
-![Screenshot showing the Empty State template component plug-in with link as a button](https://github.com/LouisMoreaux/apex-multiple-avatars/blob/main/assets/button.PNG?raw=true "Screenshot showing the Empty State template component plug-in with link as a button")
+![Screenshot showing the Empty State template component plug-in with link as a button](https://github.com/LouisMoreaux/apex-empty-state/blob/main/assets/button.PNG?raw=true "Screenshot showing the Empty State template component plug-in with link as a button")
 
-![Screenshot showing the Empty State template component plug-in with link as a block](https://github.com/LouisMoreaux/apex-multiple-avatars/blob/main/assets/block.PNG?raw=true "Screenshot showing the Empty State template component plug-in with link as a block")
+![Screenshot showing the Empty State template component plug-in with link as a block](https://github.com/LouisMoreaux/apex-empty-state/blob/main/assets/block.PNG?raw=true "Screenshot showing the Empty State template component plug-in with link as a block")
 
 ## Installation
 Import the file located at plug-in/template_component_plugin_apex_lmoreaux_empty_state.sql
