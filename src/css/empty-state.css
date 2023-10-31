@@ -1,0 +1,38 @@
+.es-container.es--button, .es-container.es--block a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.es-container.es--block a {
+    color: inherit;
+}
+
+.es-container.es--block .es-link {
+    width: 100%;
+    border: 2px dashed gray;
+    padding: 1rem;
+}
+
+.es-container.es--button .es-link {
+    margin: 0.5rem;
+}
+
+.es-img-container img {
+    max-width: 128px;
+    padding: 1rem;
+}
+
+.es-img-container span.fa::before {
+    font-size: 92px;
+}
+
+.es-title {
+    font-size: x-large;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.es-subtitle {
+    color: var(--ut-component-text-muted-color );
+}

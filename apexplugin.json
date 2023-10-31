@@ -1,0 +1,36 @@
+{
+    "name": "Empty State",
+    "version": "1.0",
+    "description": "Display an empty state",
+    "keywords": ["empty state"],
+    "homepage": "https://github.com/LouisMoreaux/apex-empty-state",
+    "bugs": {
+      "url": "https://github.com/LouisMoreaux/apex-empty-state/issues",
+      "email": "moreaux.louis@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "No",
+    "author": {
+      "name": "Louis Moreaux",
+      "email": "moreaux.louis@gmail.com",
+      "url": "https://lmoreaux.hashnode.dev/",
+      "twitter": "moreaux_louis",
+      "donationUrl": ""
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/LouisMoreaux/apex-empty-state.git"
+    },
+    "oracle": {
+      "versions": ["23.2.0", "21.1.0", "19.1.0"],
+      "apex": {
+        "versions": ["23.1.0"],
+        "plugin": {
+          "internalName": "APEX.LMOREAUX.EMPTY_STATE",
+          "type": "template component",
+          "demo": "https://apex.oracle.com/pls/apex/r/louis/template-component/empty-state",
+          "previewImage": "https://github.com/LouisMoreaux/apex-empty-state/blob/main/assets/apex-empty-state.gif?raw=true"
+        }
+      }
+    }
+  }
